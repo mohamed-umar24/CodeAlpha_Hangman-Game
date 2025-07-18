@@ -1,0 +1,43 @@
+Welcome to Hangman!
+Guess the word one letter at a time.
+You have 6 incorrect guesses.       
+
+Word: _ _ _ _ _ _
+Guessed letters: 
+Enter a letter: b
+Incorrect! You have 5 guesses left.
+
+Word: _ _ _ _ _ _
+Guessed letters: b
+Enter a letter: a
+Correct!
+
+Word: _ _ a _ _ _
+Guessed letters: b, a
+Enter a letter: n
+Correct!
+
+Word: _ _ a n _ _
+Guessed letters: b, a, n
+Enter a letter: a
+You've already guessed that letter.
+
+Word: _ _ a n _ _
+Guessed letters: b, a, n
+Enter a letter: o
+Correct!
+
+Word: o _ a n _ _
+Guessed letters: b, a, n, o
+Enter a letter: r
+Correct!
+
+Word: o r a n _ _
+Guessed letters: b, a, n, o, r
+Enter a letter: g
+Correct!
+
+Word: o r a n g _
+Guessed letters: b, a, n, o, r, g
+Enter a letter: e
+Correct!
